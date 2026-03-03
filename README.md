@@ -15,13 +15,6 @@
 ## 技术栈
 C/C++、libpcap、WSL2 (Ubuntu)、Linux网络编程、TCP/IP协议栈
 
-## 编译运行
-进入对应版本的目录，执行以下命令：
-```bash
-# 编译代码
-gcc 代码文件名.c -o 可执行文件名 -lpcap
-# 运行程序（抓包需要root权限）
-sudo ./可执行文件名
 <img width="861" height="135" alt="465bbb55ae9977ac35d8c8e453c3bfe2" src="https://github.com/user-attachments/assets/f7eb2f0a-681b-4310-9efb-829eb2046a3b" />
 <img width="680" height="348" alt="92191ff8fb0ea0b896ff8eebb16faf0a" src="https://github.com/user-attachments/assets/03a4659a-a338-446a-9111-e6df5445e000" />
 <img width="750" height="461" alt="7c7e439deaaa319f37b8d9398afa2b55" src="https://github.com/user-attachments/assets/c0204732-75e9-4cba-aecc-eed979ed97a7" />
