@@ -22,3 +22,6 @@ C/C++、libpcap、WSL2 (Ubuntu)、Linux网络编程、TCP/IP协议栈
 gcc 代码文件名.c -o 可执行文件名 -lpcap
 # 运行程序（抓包需要root权限）
 sudo ./可执行文件名
+<img width="861" height="135" alt="465bbb55ae9977ac35d8c8e453c3bfe2" src="https://github.com/user-attachments/assets/94061702-3f41-402b-9851-ec6123716a8d" />
+<img width="680" height="348" alt="92191ff8fb0ea0b896ff8eebb16faf0a" src="https://github.com/user-attachments/assets/17c1c62e-e5eb-4341-95ba-28109ac65ddd" />
+<img width="750" height="461" alt="7c7e439deaaa319f37b8d9398afa2b55" src="https://github.com/user-attachments/assets/8e127853-cae3-4edb-88f2-447f3bc00a09" />
